@@ -22,7 +22,7 @@ int Razrjadnost (int InputNumber) // определение разрядност
 
 int NumNamberThree (int InputNumber,int razrjad) // поиск 3 числа
 {
-  int number = Convert.ToInt32((InputNumber % Math.Pow(10,razrjad-2))/Math.Pow(10,razrjad-3));
+  int number = Convert.ToInt32((InputNumber % Math.Pow(10,razrjad-2))/Math.Pow(10,razrjad-3)); //есть косяк проявляется с разрядностью выше 7
   return number;
 }
 
