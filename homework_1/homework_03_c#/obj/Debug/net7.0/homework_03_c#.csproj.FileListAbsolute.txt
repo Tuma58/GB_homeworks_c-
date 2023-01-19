@@ -1,0 +1,15 @@
+E:\gh_homework_01_C#\homework_03_c#\obj\Debug\net7.0\homework_03_c#.csproj.AssemblyReference.cache
+E:\gh_homework_01_C#\homework_03_c#\obj\Debug\net7.0\homework_03_c#.GeneratedMSBuildEditorConfig.editorconfig
+E:\gh_homework_01_C#\homework_03_c#\obj\Debug\net7.0\homework_03_c#.AssemblyInfoInputs.cache
+E:\gh_homework_01_C#\homework_03_c#\obj\Debug\net7.0\homework_03_c#.AssemblyInfo.cs
+E:\gh_homework_01_C#\homework_03_c#\obj\Debug\net7.0\homework_03_c#.csproj.CoreCompileInputs.cache
+E:\gh_homework_01_C#\homework_03_c#\bin\Debug\net7.0\homework_03_c#.exe
+E:\gh_homework_01_C#\homework_03_c#\bin\Debug\net7.0\homework_03_c#.deps.json
+E:\gh_homework_01_C#\homework_03_c#\bin\Debug\net7.0\homework_03_c#.runtimeconfig.json
+E:\gh_homework_01_C#\homework_03_c#\bin\Debug\net7.0\homework_03_c#.dll
+E:\gh_homework_01_C#\homework_03_c#\bin\Debug\net7.0\homework_03_c#.pdb
+E:\gh_homework_01_C#\homework_03_c#\obj\Debug\net7.0\homework_03_c#.dll
+E:\gh_homework_01_C#\homework_03_c#\obj\Debug\net7.0\refint\homework_03_c#.dll
+E:\gh_homework_01_C#\homework_03_c#\obj\Debug\net7.0\homework_03_c#.pdb
+E:\gh_homework_01_C#\homework_03_c#\obj\Debug\net7.0\homework_03_c#.genruntimeconfig.cache
+E:\gh_homework_01_C#\homework_03_c#\obj\Debug\net7.0\ref\homework_03_c#.dll
