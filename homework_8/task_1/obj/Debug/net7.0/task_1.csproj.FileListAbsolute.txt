@@ -1,0 +1,15 @@
+E:\GB_homeworks_c#\GB_homeworks_c-\homework_8\task_1\bin\Debug\net7.0\task_1.exe
+E:\GB_homeworks_c#\GB_homeworks_c-\homework_8\task_1\bin\Debug\net7.0\task_1.deps.json
+E:\GB_homeworks_c#\GB_homeworks_c-\homework_8\task_1\bin\Debug\net7.0\task_1.runtimeconfig.json
+E:\GB_homeworks_c#\GB_homeworks_c-\homework_8\task_1\bin\Debug\net7.0\task_1.dll
+E:\GB_homeworks_c#\GB_homeworks_c-\homework_8\task_1\bin\Debug\net7.0\task_1.pdb
+E:\GB_homeworks_c#\GB_homeworks_c-\homework_8\task_1\obj\Debug\net7.0\task_1.csproj.AssemblyReference.cache
+E:\GB_homeworks_c#\GB_homeworks_c-\homework_8\task_1\obj\Debug\net7.0\task_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB_homeworks_c#\GB_homeworks_c-\homework_8\task_1\obj\Debug\net7.0\task_1.AssemblyInfoInputs.cache
+E:\GB_homeworks_c#\GB_homeworks_c-\homework_8\task_1\obj\Debug\net7.0\task_1.AssemblyInfo.cs
+E:\GB_homeworks_c#\GB_homeworks_c-\homework_8\task_1\obj\Debug\net7.0\task_1.csproj.CoreCompileInputs.cache
+E:\GB_homeworks_c#\GB_homeworks_c-\homework_8\task_1\obj\Debug\net7.0\task_1.dll
+E:\GB_homeworks_c#\GB_homeworks_c-\homework_8\task_1\obj\Debug\net7.0\refint\task_1.dll
+E:\GB_homeworks_c#\GB_homeworks_c-\homework_8\task_1\obj\Debug\net7.0\task_1.pdb
+E:\GB_homeworks_c#\GB_homeworks_c-\homework_8\task_1\obj\Debug\net7.0\task_1.genruntimeconfig.cache
+E:\GB_homeworks_c#\GB_homeworks_c-\homework_8\task_1\obj\Debug\net7.0\ref\task_1.dll

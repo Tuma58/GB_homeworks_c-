@@ -6,9 +6,9 @@ m = 3, n = 4.
 8 7,8 -7,1 9
 */
 
-static int[,] massiv(int c, int d)
+static double[,] massiv(int c, int d)
         {
-            int[,] arr =new int[c,d];
+            double[,] arr =new double[c,d];
             Random rnd = new Random();
             for (int i=0;i<=c-1;i++)
             {
@@ -25,7 +25,7 @@ static int[,] massiv(int c, int d)
 Console.WriteLine("Введите размерность массива [a,b] "); // основоное тело программы
 int a = Convert.ToInt32(Console.ReadLine());
 int b = Convert.ToInt32(Console.ReadLine());
-int[,] mass= new int[a,b];
+double[,] mass= new double[a,b];
 mass=massiv(a,b);
 for (int i=0;i<=a-1;i++)
             {
