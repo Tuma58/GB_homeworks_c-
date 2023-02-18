@@ -1,0 +1,15 @@
+D:\GB_test_work_place\GB_homeworks_c-\homework_9\task_2\obj\Debug\net7.0\task_2.csproj.AssemblyReference.cache
+D:\GB_test_work_place\GB_homeworks_c-\homework_9\task_2\obj\Debug\net7.0\task_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB_test_work_place\GB_homeworks_c-\homework_9\task_2\obj\Debug\net7.0\task_2.AssemblyInfoInputs.cache
+D:\GB_test_work_place\GB_homeworks_c-\homework_9\task_2\obj\Debug\net7.0\task_2.AssemblyInfo.cs
+D:\GB_test_work_place\GB_homeworks_c-\homework_9\task_2\obj\Debug\net7.0\task_2.csproj.CoreCompileInputs.cache
+D:\GB_test_work_place\GB_homeworks_c-\homework_9\task_2\bin\Debug\net7.0\task_2.exe
+D:\GB_test_work_place\GB_homeworks_c-\homework_9\task_2\bin\Debug\net7.0\task_2.deps.json
+D:\GB_test_work_place\GB_homeworks_c-\homework_9\task_2\bin\Debug\net7.0\task_2.runtimeconfig.json
+D:\GB_test_work_place\GB_homeworks_c-\homework_9\task_2\bin\Debug\net7.0\task_2.dll
+D:\GB_test_work_place\GB_homeworks_c-\homework_9\task_2\bin\Debug\net7.0\task_2.pdb
+D:\GB_test_work_place\GB_homeworks_c-\homework_9\task_2\obj\Debug\net7.0\task_2.dll
+D:\GB_test_work_place\GB_homeworks_c-\homework_9\task_2\obj\Debug\net7.0\refint\task_2.dll
+D:\GB_test_work_place\GB_homeworks_c-\homework_9\task_2\obj\Debug\net7.0\task_2.pdb
+D:\GB_test_work_place\GB_homeworks_c-\homework_9\task_2\obj\Debug\net7.0\task_2.genruntimeconfig.cache
+D:\GB_test_work_place\GB_homeworks_c-\homework_9\task_2\obj\Debug\net7.0\ref\task_2.dll
